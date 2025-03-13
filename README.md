@@ -9,3 +9,6 @@ Firstly we create our users and here 5 users
 Then we create 2 teams and adding users to those teams
 ![alt text](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/e94cd3bed960350ccfcbd743212acbfb2192deb1/creating%20teams.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/a75a5788050237d366c8f30089fa396a22775418/teams.jpg)
+
+In order to give some permissions to the users (for whatever reasons) we change ownership of files and directories.
+![alt text]()
