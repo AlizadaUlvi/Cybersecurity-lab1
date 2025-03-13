@@ -5,3 +5,6 @@ Firstly we create our users and here 5 users
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/682d11a2579385c1c10ca1576ba6e33c5fd57268/james.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/48d139409b8ba6089360a9aaaf0454cbff5e81d3/jordan.jpg)
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/4d975ddfb4f61da1b3cceab3486a53b153230f12/uli.jpg)
+
+Then we create 2 teams and adding users to those teams
+![alt text]
