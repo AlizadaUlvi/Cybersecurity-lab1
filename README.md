@@ -15,4 +15,4 @@ In order to give some permissions to the users (for whatever reasons) we change 
 ![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/7a6a528be839cc8222e7b2a8fd7509c71b08d459/chown.jpg)
 
 Then let's give some permissions to the users.
-![alt text]()
+![alt text](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/6543a4b9780a77a63cc43ac5c5bb149689d46e17/permissions.jpg)
