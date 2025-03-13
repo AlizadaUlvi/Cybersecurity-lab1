@@ -12,3 +12,4 @@ Then we create 2 teams and adding users to those teams
 
 In order to give some permissions to the users (for whatever reasons) we change ownership of files and directories.
 ![alt text](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/7b3b3a992707548085e7339028d736a423c00822/Chmod.jpg)
+![image alt](https://github.com/AlizadaUlvi/Cybersecurity-lab1/blob/7a6a528be839cc8222e7b2a8fd7509c71b08d459/chown.jpg)
